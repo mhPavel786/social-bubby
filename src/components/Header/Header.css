@@ -1,0 +1,10 @@
+.main_menu{
+    background:rgba(9, 9, 139, 0.815);
+    text-align: center;
+}
+h1{
+    font-size: 34px;
+    color: white;
+    margin: 20px 0px;
+    padding: 20px 0px;
+}

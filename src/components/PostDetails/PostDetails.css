@@ -1,0 +1,28 @@
+.post-wrapper{
+    margin: 0 auto;
+
+}
+.comment-content{
+    box-shadow: 5px 5px 10px gray;
+    padding: 40px 20px 5px;
+    border-radius: 20px;
+    margin-top: 20px;
+    width: 70%;
+    margin: 0 auto;
+}
+.comment-img{
+    width: 200px;
+    float: left;
+    height: 300px;
+}
+.comment-img img{
+    width: 120px;
+    height: 115px;
+    border-radius: 50%;
+    
+}
+.comment-info{
+    width: 600px;
+    justify-content: end;
+    height: 300px;
+}
